@@ -1,3 +1,10 @@
 Hello Ha!
 
+<<<<<<< HEAD
 haaaaa
+=======
+
+
+
+sua code
+>>>>>>> 653967c8b04d29be0d76df52630cc342ca8946de
